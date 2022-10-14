@@ -13,7 +13,17 @@ engineering and data science pipelines.
 
 MLFlow: is an open-source platform for managing the end-to-end machine learning lifecycle.  It provides a central place to track experiments, compare results, and share models.
 
+<br>
 
+Used dataset [YELLOW TRIPDATA 2018-12](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) from nyc.gov website.
+
+After downloading the dataset, save it in the data folder:
+```
+├── data
+│   ├── 01_raw
+│   │   └── yellow_tripdata_2018-12.csv
+
+```
 <br>
 
 **Setup kedro env:**
