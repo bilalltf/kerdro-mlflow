@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bilal/Desktop/M2_SID/S3/Data_science/tp/tp3/yellow_tripdata/mlruns/1/9baa4863771a4b699877d122de650906/artifacts
+end_time: 1665684923544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9baa4863771a4b699877d122de650906
+run_uuid: 9baa4863771a4b699877d122de650906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665684922632
+status: 3
+tags: []
+user_id: bilal

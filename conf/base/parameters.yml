@@ -1,0 +1,4 @@
+limit_size: 9000
+elas_reg_params: {'alpha': 0.8, 'l1_ratio': 0.2}
+# example of regression_cv_params
+regression_cv_params: {'alpha': [0.1, 0.5, 1], 'l1_ratio': [0.1, 0.5, 1]}
